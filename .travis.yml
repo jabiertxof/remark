@@ -3,7 +3,6 @@ node_js:
   - "6"
   - "8"
 deploy:
-  ...
   on:
     branch: production
     skip_cleanup: true
