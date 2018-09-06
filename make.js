@@ -1,5 +1,5 @@
 require('shelljs/make');
-require('shelljs/global');
+require('shelljs/global'); 
 
 // Targets
 
