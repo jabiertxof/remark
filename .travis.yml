@@ -5,4 +5,4 @@ node_js:
 deploy:
   on:
     branch: production
-    skip_cleanup: true
+
