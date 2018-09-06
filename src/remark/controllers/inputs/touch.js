@@ -1,7 +1,7 @@
 exports.register = function (events, options) {
   addTouchEventListeners(events, options);
 };
-
+ 
 exports.unregister = function (events) {
   removeTouchEventListeners(events);
 };
