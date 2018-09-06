@@ -6,7 +6,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gnab/remark.git"
+    "url": "https://github.com/jabiertxof/remark.git"
   },
   "license": "MIT",
   "devDependencies": {
